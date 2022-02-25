@@ -52,7 +52,7 @@
         <!-- https://mvnrepository.com/artifact/org.mybatis.dynamic-sql/mybatis-dynamic-sql -->
         <version.dynamicSql>1.2.1</version.dynamicSql>
         <!-- https://mvnrepository.com/artifact/org.apache.lucene/lucene-core -->
-        <version.lucene>8.7.0</version.lucene>
+        <version.lucene>8.11.1</version.lucene>
         <!-- http://mvnrepository.com/artifact/redis.clients/jedis -->
         <version.jedis>3.5.1</version.jedis>
         <!-- http://mvnrepository.com/artifact/org.quartz-scheduler/quartz -->
