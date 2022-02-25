@@ -33,7 +33,7 @@
         <version.jackson>2.12.4</version.jackson>
         <!-- http://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
         <!-- http://hibernate.org/orm/releases/ -->
-        <version.hibernate>5.4.32.Final</version.hibernate>
+        <version.hibernate>5.6.5.Final</version.hibernate>
         <!-- https://mvnrepository.com/artifact/org.hibernate.search/hibernate-search-mapper-orm/ -->
         <!-- http://hibernate.org/search/releases/ -->
         <version.hibernateSearch>6.0.5.Final</version.hibernateSearch>
