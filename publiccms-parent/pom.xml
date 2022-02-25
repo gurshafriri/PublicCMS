@@ -36,7 +36,7 @@
         <version.hibernate>5.4.32.Final</version.hibernate>
         <!-- https://mvnrepository.com/artifact/org.hibernate.search/hibernate-search-mapper-orm/ -->
         <!-- http://hibernate.org/search/releases/ -->
-        <version.hibernateSearch>6.0.5.Final</version.hibernateSearch>
+        <version.hibernateSearch>6.1.0.Final</version.hibernateSearch>
         <!-- https://mvnrepository.com/artifact/org.ehcache/ehcache -->
         <version.ehcache>3.9.4</version.ehcache>
         <!-- http://mvnrepository.com/artifact/org.freemarker/freemarker -->
